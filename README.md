@@ -4,7 +4,7 @@ A K-Nearest Neighbors (KNN) classifier that predicts Iris flower species (setosa
 
 Built as **Project 2 — Data Classification Using AI** for the DecodeLabs AI Engineering Industrial Training Program (Batch 2026).
 
-🔗 **Live app:** _add your Streamlit Community Cloud link here_
+🔗 **Live app:** https://irisclassifie.streamlit.app/
 
 ## What it does
 
